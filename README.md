@@ -2,7 +2,6 @@
 
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)]()
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-orange)](https://www.r-project.org/)
-[![Python](https://img.shields.io/badge/Python-%3E%3D3.10-blue)](https://www.python.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-Project-lightgrey)](https://www.latex-project.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
