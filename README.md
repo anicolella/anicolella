@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)]()
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-orange)](https://www.r-project.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-Project-lightgrey)](https://www.latex-project.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-USP-green.svg)](LICENSE)
 
 I hold a **PhD in Applied Economics** from the University of São Paulo, where I am a **Professor of Economics** at the School of Economics, Business, and Accounting in Ribeirão Preto. I have been a visiting professor at the **University of Kent** (2010, 2016) and the **University of Illinois** (2013). I teach **Statistics, Applied Econometrics with R, and Impact Evaluation**. My research focuses on **social** and **environmental-agricultural economics**, and I have coordinated or contributed to projects for organizations such as the **World Bank, IADB, DFID, IFPRI, Lemann Foundation, INEP, BNDES, Unibanco Institute, BBM Bank, Cargill, and EDP do Brasil**.
 
