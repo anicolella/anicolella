@@ -50,20 +50,20 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 
 ## 📚 Selected Publications
 
-- **Silva, A. R. D.; Nicolella, A. C.; Pazello, E. T.** Análise do efeito da alocação de mamógrafo sobre indicadores de saúde da mulher. *Cadernos de Saúde Pública*, v. 40, p. 1423, 2024. [📄 ![Link](https://img.shields.io/badge/Article-blue)](https://www.scielo.br/j/csp/a/vXkf5RWGRBfDK9d44D3BT5Q/?format=html&lang=pt)
+- **Silva, A. R. D.; Nicolella, A. C.; Pazello, E. T.** Análise do efeito da alocação de mamógrafo sobre indicadores de saúde da mulher. *Cadernos de Saúde Pública*, v. 40, p. 1423, 2024. [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.scielo.br/j/csp/a/vXkf5RWGRBfDK9d44D3BT5Q/?format=html&lang=pt)
  
 
-- **Carolino, C. D.; Uchoa, G. G.; Nicolella, A. C.; Pazello, E. T.** The impact of childcare centres' closures due to COVID-19 on women's labour supply. *International Journal of Social Economics*, v. 50, p. 1423–1438, 2023.  
+- **Carolino, C. D.; Uchoa, G. G.; Nicolella, A. C.; Pazello, E. T.** The impact of childcare centres' closures due to COVID-19 on women's labour supply. *International Journal of Social Economics*, v. 50, p. 1423–1438, 2023.  [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.scielo.br/j/csp/a/vXkf5RWGRBfDK9d44D3BT5Q/?format=html&lang=pt)
 
-- **Nishida, F. H.; Nicolella, A. C.; Canassa, B. J.; Espinosa, D. F.; LiduareS, T. Q.** Impactos da aposentadoria rural sobre o abandono escolar no Brasil. *Revista de Economia e Sociologia Rural*, v. 60, p. e251012, 2022.  
+- **Nishida, F. H.; Nicolella, A. C.; Canassa, B. J.; Espinosa, D. F.; LiduareS, T. Q.** Impactos da aposentadoria rural sobre o abandono escolar no Brasil. *Revista de Economia e Sociologia Rural*, v. 60, p. e251012, 2022.  [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.scielo.br/j/csp/a/vXkf5RWGRBfDK9d44D3BT5Q/?format=html&lang=pt)
 
-- **Rocha, V. A.; Belluzzo Junior, W.; Nicolella, A. C.** Gastos e desempenho escolar: Evidências do Programa de Transferência de Recursos Financeiros do município de São Paulo. *Revista Brasileira de Economia (Impresso)*, v. 75, p. 442–463, 2021.  
+- **Rocha, V. A.; Belluzzo Junior, W.; Nicolella, A. C.** Gastos e desempenho escolar: Evidências do Programa de Transferência de Recursos Financeiros do município de São Paulo. *Revista Brasileira de Economia (Impresso)*, v. 75, p. 442–463, 2021. [![Link](https://img.shields.io/badge/Access-Article-blue)](https://periodicos.fgv.br/rbe/article/view/64606) 
 
-- **De Souza Filho, H. M.; Carrer, M. J.; Saes, M. S. M.; Gomes, L. A. V.; Nicolella, A. C.** Performance heterogeneity and strategic orientation: An analysis of small farmers of an agrarian reform project in Brazil. *Land Use Policy*, v. 86, p. 23–30, 2019. Cited: 9  
+- **De Souza Filho, H. M.; Carrer, M. J.; Saes, M. S. M.; Gomes, L. A. V.; Nicolella, A. C.** Performance heterogeneity and strategic orientation: An analysis of small farmers of an agrarian reform project in Brazil. *Land Use Policy*, v. 86, p. 23–30, 2019. [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0264837718309141) 
 
-- **Nicolella, A.; Kassouf, A. L.** The effect of child labour on children’s health in Brazil. *International Journal of Social Economics*, v. 45, p. 357–371, 2018. Cited: 2  
+- **Nicolella, A.; Kassouf, A. L.** The effect of child labour on children’s health in Brazil. *International Journal of Social Economics*, v. 45, p. 357–371, 2018. [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.sciencedirect.com/org/science/article/abs/pii/S030682931800126X) 
 
-- **Nicolella, A. C.; Belluzzo, W.** The effect of reducing the pre-harvest burning of sugar cane on respiratory health in Brazil. *Environment and Development Economics (Print)*, v. 20, p. 127–140, 2015. Cited: 17
+- **Nicolella, A. C.; Belluzzo, W.** The effect of reducing the pre-harvest burning of sugar cane on respiratory health in Brazil. *Environment and Development Economics (Print)*, v. 20, p. 127–140, 2015. [![Link](https://img.shields.io/badge/Access-Article-blue)](https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/effect-of-reducing-the-preharvest-burning-of-sugar-cane-on-respiratory-health-in-brazil/3146568B86B51E6A8A8410DDB45620DD)
 
 > More publications and preprints will be added as they become available.
 
