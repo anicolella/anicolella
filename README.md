@@ -42,7 +42,7 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 | **The limits of economic growth for poverty reduction: Spatial evidence from Brazilian municipalities** | Scaraboto,NV; Nakabashi,L; Nicolella, A. |✏️ *Under Submission*![Rev. Reg. Research](https://img.shields.io/badge/Rev.%20Reg.%20Research-red)|
 | **Intergovernmental Transfers in Hard Times: Evidence from Brazilian local governments in the COVID-19 crisis.** | Salomão,LM; Granai,FB; Pazello,ET;  Nicolella,A. | ✏️ *Under Submission*![Local Gov. Stud.](https://img.shields.io/badge/Local%20Gov.%20Stud.-red) |
 | **Heterogeneous Gender Effects of Party Switching on Electoral Performance: An Analysis of Brazilian Mayoral Elections** | Lage,P; Thomé,RC; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![Acta Politica](https://img.shields.io/badge/Acta%20Politica-red) |
-| **The impact of Brazilian labor law on school dropout** | Villaça,MC; Hirata,MF; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![EEPA](https://img.shields.io/badge/EEPA.-red) |
+| **The impact of Brazilian labor law on school dropout** | Villaça,MC; Hirata,MF; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![EEPA](https://img.shields.io/badge/EEPA-red) |
 | **Effects of the Pink October on breast cancer screening: An analysis of regional inequalities in Brazil** | Silva,AR; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![W. Med. Health Pol.](https://img.shields.io/badge/W.%20Med.%20Health%20Pol..-red) |
 | **The Effects of *Bolsa Família* on Own Consumption´s Labor Decision** | Piola,L; Nicolella,A; Toldo,ET. | 🔄 In progress |
 
