@@ -39,7 +39,7 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 
 | Working Paper | Authors | Status |
 |---------|-----------|--------|
-| **The limits of economic growth for poverty reduction: Spatial evidence from Brazilian municipalities** | Scaraboto,NV; Nakabashi,L; Nicolella, A. |✏️ *Under Submission*![J Econ Inequal](https://img.shields.io/badge/J%20Econ%20Inequal-red)|
+| **The limits of economic growth for poverty reduction: Spatial evidence from Brazilian municipalities** | Scaraboto,NV; Nakabashi,L; Nicolella, A. |✏️ *Under Submission*![Rev. Reg. Research](https://img.shields.io/badge/J%20Econ%20Inequal-red)|
 | **Intergovernmental Transfers in Hard Times: Evidence from Brazilian local governments in the COVID-19 crisis.** | Salomão,LM; Granai,FB; Pazello,ET;  Nicolella,A. | ✏️ *Under Submission*![Local Gov. Stud.](https://img.shields.io/badge/Local%20Gov.%20Stud.-red) |
 | **Heterogeneous Gender Effects of Party Switching on Electoral Performance: An Analysis of Brazilian Mayoral Elections** | Lage,P; Thomé,RC; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![Acta Politica](https://img.shields.io/badge/Pol.%20Behavior.-red) |
 | **The impact of Brazilian labor law on school dropout** | Villaça,MC; Hirata,MF; Nicolella,A; Toldo,ET. | ✏️ *Under Submission*![EEPA](https://img.shields.io/badge/EEPA.-red) |
