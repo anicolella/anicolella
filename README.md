@@ -50,7 +50,7 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 
 ## 📚 Selected Publications
 
-- **Silva, A. R. D.; Nicolella, A. C.; Pazello, E. T.** Análise do efeito da alocação de mamógrafo sobre indicadores de saúde da mulher. *Cadernos de Saúde Pública*, v. 40, p. 1423, 2024. Cited: 1  
+- **Silva, A. R. D.; Nicolella, A. C.; Pazello, E. T.** Análise do efeito da alocação de mamógrafo sobre indicadores de saúde da mulher. *Cadernos de Saúde Pública*, v. 40, p. 1423, 2024. Cited: 1  [Artigo](https://www.scielo.br/j/csp/a/vXkf5RWGRBfDK9d44D3BT5Q/?format=html&lang=pt)
 
 - **Carolino, C. D.; Uchoa, G. G.; Nicolella, A. C.; Pazello, E. T.** The impact of childcare centres' closures due to COVID-19 on women's labour supply. *International Journal of Social Economics*, v. 50, p. 1423–1438, 2023.  
 
