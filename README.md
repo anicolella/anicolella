@@ -12,7 +12,7 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 
 ## 🔭 Research Areas
 
-- Social Economics  
+- Microeconometrics  
 - Public Policy Evaluation  
 - Quantitative Methods and Applied Statistics  
 - Environmental-Agricultural Economics 
@@ -21,14 +21,14 @@ I hold a **PhD in Applied Economics** from the University of São Paulo, where I
 
 ## 🛠 Tools and Technologies
 
-- **Programming Languages:** R, LaTeX, Stata, RStudio  
+- **Programming Languages:** R, LaTeX, Stata, RStudio, Quarto, Positron  
 - **Techniques and Methods:** Econometrics, Difference-in-Differences Models, Regression Descontinuity Design, Matching, Randomization, Panel models, Discrete Choice Models.  
 
 ---
 
 ## 📂 Popular Repositories
 
-- [**Jurimetrics**](https://anicolella.github.io/jurimetria/) – Lecture notes in TeX  
+- [**Jurimetrics**](https://anicolella.github.io/esmat/) – Lecture notes in TeX  
 - [**Coming Soon**] – More projects on policy evaluation and data analysis  
 
 > This repository is **work in progress** and will be updated as projects advance.
